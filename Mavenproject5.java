@@ -20,7 +20,7 @@ public class Mavenproject5 {
         double respuesta;
 
         Scanner input = new Scanner(System.in);
-
+        System.out.println("==============0=============");
         System.out.println("Ingresar base del triangulo:----> ");
         base = input.nextDouble();
         System.out.println("Ingresar la altura del triangulo:---> ");
